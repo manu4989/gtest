@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aliaslist version="1.0">
+  <alias name="About_this_Project" value="177"></alias>
+  <alias name="Conditional_Tagging_and_Filtering" value="267"></alias>
+  <alias name="Splash" value="788"></alias>
+  <alias name="Thursday" value="2"></alias>
+  <alias name="testFRIDAY" value="999"></alias>
+  <alias name="testMONDAY" value="1000"></alias>
+  <alias name="testTUESDAY" value="1001"></alias>
+</aliaslist>

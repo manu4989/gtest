@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+  <title>Table of Contents</title>
+  <page navtitle="About this project" href="../contents/MainProject/About_this_project.htm" format="html" processing-role="normal"></page>
+  <book navtitle="Barista School" format="html" processing-role="normal">
+    <page navtitle="So you want to be a barista?" href="../contents/MainProject/Advertising/School/So_you_want_to_be_a_barista.htm" format="html" processing-role="normal"></page>
+    <page navtitle="Curriculum" href="../contents/MainProject/Advertising/School/Curriculum.htm" format="html" processing-role="normal"></page>
+    <page navtitle="Financial Aid" href="../contents/MainProject/Advertising/School/Financial_Aid.htm" format="html" processing-role="normal"></page>
+  </book>
+  <book navtitle="Coffee Shop" format="html" processing-role="normal">
+    <page navtitle="Drink Menu" href="../contents/MainProject/Advertising/Shop/DrinkMenu.htm" format="html" processing-role="normal"></page>
+    <page navtitle="Specials" href="../contents/MainProject/Advertising/Shop/Specials.htm" format="html" processing-role="normal"></page>
+    <page navtitle="The LAL App" href="../contents/MainProject/Advertising/Shop/The_LAL_App.htm" format="html" processing-role="normal"></page>
+  </book>
+</map>

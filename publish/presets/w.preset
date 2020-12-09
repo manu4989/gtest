@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <title>Learn a Latte</title>
+  <content>
+    <toc>
+      <path>../../toc/Student_Guide_TOC.toc</path>
+    </toc>
+    <index type="boolean">false</index>
+    <generatetoc type="boolean">true</generatetoc>
+    <includereftopics type="boolean">true</includereftopics>
+    <includeExpandingText type="boolean">false</includeExpandingText>
+    <includeDropdownText type="boolean">false</includeDropdownText>
+  </content>
+  <type>word</type>
+  <outputPath>C:/Users/mmehrotr/Documents/My RoboHelp Projects/outputs/Learn a Latte/w</outputPath>
+  <name>w</name>
+  <starterPage>Learn_a_Latte.docx</starterPage>
+  <search>
+    <showSpeclChars type="boolean">false</showSpeclChars>
+    <speclChars>0;1;2;3;4;5;6;7;8;9</speclChars>
+  </search>
+  <patchHomepage type="boolean">true</patchHomepage>
+  <gdprCompliance type="boolean">true</gdprCompliance>
+  <word>
+    <stylemapping>{&quot;selectorMap&quot;:{},&quot;discardSelectors&quot;:[],&quot;identityMappedSelectors&quot;:[]}</stylemapping>
+    <insertTopicBreak type="boolean">false</insertTopicBreak>
+  </word>
+</preset>

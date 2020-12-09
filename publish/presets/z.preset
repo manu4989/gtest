@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <title>Learn a Latte</title>
+  <content>
+    <toc>
+      <path>../../toc/Intranet_Site_TOC.toc</path>
+    </toc>
+    <index type="boolean">false</index>
+    <generatetoc type="boolean">true</generatetoc>
+    <includereftopics type="boolean">true</includereftopics>
+    <postScript>
+      <name></name>
+      <displayName>None</displayName>
+    </postScript>
+    <includeExpandingText type="boolean">false</includeExpandingText>
+    <includeDropdownText type="boolean">false</includeDropdownText>
+  </content>
+  <type>pdf</type>
+  <outputPath>C:/Users/mmehrotr/Documents/My RoboHelp Projects/outputs/Learn a Latte/z</outputPath>
+  <name>z</name>
+  <starterPage>Learn_a_Latte.pdf</starterPage>
+  <search>
+    <showSpeclChars type="boolean">false</showSpeclChars>
+    <speclChars>0;1;2;3;4;5;6;7;8;9</speclChars>
+  </search>
+  <patchHomepage type="boolean">true</patchHomepage>
+  <gdprCompliance type="boolean">true</gdprCompliance>
+  <pdf>
+    <downloadTimeout type="number">200</downloadTimeout>
+    <margin type="array">
+      <marginitem type="number">15</marginitem>
+      <marginitem type="number">15</marginitem>
+      <marginitem type="number">15</marginitem>
+      <marginitem type="number">15</marginitem>
+    </margin>
+    <multiheaders type="boolean">false</multiheaders>
+  </pdf>
+</preset>

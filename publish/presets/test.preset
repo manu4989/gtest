@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <title>Learn a Latte</title>
+  <content>
+    <toc>
+      <name>Complete_TOC_with_Author_Information</name>
+      <path>../../toc/Complete_TOC_with_Author_Information.toc</path>
+    </toc>
+    <index type="boolean">true</index>
+    <masterpage>
+      <path>../../contents/assets/masterpages/New_Master_Page.htt</path>
+      <name>New_Master_Page</name>
+    </masterpage>
+    <mapFiles type="array">
+      <mapFilesitem>
+        <path>../mapfiles/BSSCDefault.ali</path>
+      </mapFilesitem>
+    </mapFiles>
+  </content>
+  <type>html5</type>
+  <glosstermEffect type="number">0</glosstermEffect>
+  <outputPath>C:/Users/mmehrotr/Documents/My RoboHelp Projects/outputs/Learn a Latte/test</outputPath>
+  <name>test</name>
+  <starterPage>index.htm</starterPage>
+  <mobileapp>
+    <android type="boolean">true</android>
+    <iOS type="boolean">false</iOS>
+  </mobileapp>
+  <search>
+    <suggestion type="boolean">true</suggestion>
+    <context type="boolean">false</context>
+    <contextLimit type="number">100</contextLimit>
+    <glossary type="boolean">true</glossary>
+    <fuzzy type="boolean">true</fuzzy>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+  </sitemap>
+  <skin>
+    <path>../skins/Indigo/html5.skn</path>
+    <name>html5</name>
+  </skin>
+  <createThumbNails type="boolean">false</createThumbNails>
+  <patchHomepage type="boolean">true</patchHomepage>
+  <gdprCompliance type="boolean">true</gdprCompliance>
+</preset>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>        
+
+<glossgroup id="Learn_a_Latte">          
+<title>Glossary Definitions</title>        
+<glossentry id="AFFOGATO">
+<glossterm>AFFOGATO</glossterm>
+<glossdef>Ice cream (traditionally vanilla) “drowned” with a shot of espresso.</glossdef></glossentry>
+<glossentry id="AMERICANO">
+<glossterm>AMERICANO</glossterm>
+<glossdef>A shot of espresso diluted with hot water.</glossdef></glossentry>
+<glossentry id="BARISTA">
+<glossterm>BARISTA</glossterm>
+<glossdef>The person who prepares coffee at a coffee bar.</glossdef></glossentry>
+<glossentry id="CAPPUCCINO">
+<glossterm>CAPPUCCINO</glossterm>
+<glossdef>An espresso shot combined with foamed steamed milk. Five to seven ounces total.</glossdef></glossentry>
+<glossentry id="CHEMEX">
+<glossterm>CHEMEX</glossterm>
+<glossdef>The classic hourglass-shaped filter coffee brewer. Chemex filters are denser than other paper filters, and many believe that this creates a sweeter, well- balanced cup of coffee.</glossdef></glossentry>
+<glossentry id="CLEVER_COFFEE DRIPPER">
+<glossterm>CLEVER COFFEE DRIPPER</glossterm>
+<glossdef>Recently introduced, a filter cone with a stopper that lets coffee steep before dripping, extracting more flavor.</glossdef></glossentry>
+<glossentry id="CLOVER">
+<glossterm>CLOVER</glossterm>
+<glossdef>High-tech single-cup brewing machine. Company was bought by Starbucks in 2007.</glossdef></glossentry>
+<glossentry id="COLD_DRIP COFFEE">
+<glossterm>COLD DRIP COFFEE</glossterm>
+<glossdef>Coffee grounds are steeped in cold water for about 12 hours, then strained to make a concentrate that’s used for iced coffee and cut with milk or water. It’s associated with New Orleans.</glossdef></glossentry>
+<glossentry id="CORTADO">
+<glossterm>CORTADO</glossterm>
+<glossdef>Espresso topped with flat steamed milk, 4 to 4 1/2 ounces total.</glossdef></glossentry>
+<glossentry id="CREMA">
+<glossterm>CREMA</glossterm>
+<glossdef>Thick, caramel-colored emulsified oils that sit on top of an espresso.</glossdef></glossentry>
+<glossentry id="CUP_OF EXCELLENCE">
+<glossterm>CUP OF EXCELLENCE</glossterm>
+<glossdef>A competition to determine the best coffee bean grown in a particular nation. The top Cup of Excellence (C.O.E.) lots fetch significantly higher prices at auction.</glossdef></glossentry>
+<glossentry id="CUPPING">
+<glossterm>CUPPING</glossterm>
+<glossdef>Tasting method used by coffee professionals. Coarsely ground coffee is steeped with hot water in shallow bowls, then slurped from flat spoons.</glossdef></glossentry>
+<glossentry id="DARK_ROAST">
+<glossterm>DARK ROAST</glossterm>
+<glossdef>Coffee beans roasted until they exude oils. The style has fallen out of favor among many artisanal roasters who think it overwhelms certain flavors.</glossdef></glossentry>
+<glossentry id="DIRECT_TRADE">
+<glossterm>DIRECT TRADE</glossterm>
+<glossdef>When coffee roasters buy directly from farms rather than from brokers. Proponents say it increases coffee quality and gives farmers more power.</glossdef></glossentry>
+<glossentry id="DRIP_COFFEE">
+<glossterm>DRIP COFFEE</glossterm>
+<glossdef>Coffee made with a filter, a press pot, a percolator or a countertop coffee maker. Flavor is extracted by contact with water not under pressure.</glossdef></glossentry>
+<glossentry id="ESPRESSO">
+<glossterm>ESPRESSO</glossterm>
+<glossdef>Concentrated coffee made when hot water is forced at pressure through fine coffee grounds. Usually slightly less than 2 ounces total. Baristas prefer 8 to 10 bars of pressure and 15 to 25 grams of coffee.</glossdef></glossentry>
+<glossentry id="EXTRACTION">
+<glossterm>EXTRACTION</glossterm>
+<glossdef>Drawing flavor from coffee grounds. Coffee can be underextracted and taste sour or overextracted and taste bitter.</glossdef></glossentry>
+<glossentry id="FAIRTRADE">
+<glossterm>FAIRTRADE</glossterm>
+<glossdef>A private program that certifies that farmers or coffee growers are paid a minimum price for coffee.</glossdef></glossentry>
+<glossentry id="FILTER_COFFEE">
+<glossterm>FILTER COFFEE</glossterm>
+<glossdef>Drip coffee made with a ceramic, glass or plastic cone lined with a paper filter. Favored by professionals because it gives them control over water temperature — ideally 200 to 210 degrees. This coffee is sediment free, though some believe the filters add unwanted flavor.</glossdef></glossentry>
+<glossentry id="FLAT_WHITE">
+<glossterm>FLAT WHITE</glossterm>
+<glossdef>Espresso with flat, steamed milk, about 5 to 7 ounces.</glossdef></glossentry>
+<glossentry id="FRENCH_PRESS">
+<glossterm>FRENCH PRESS</glossterm>
+<glossdef>Coffee made by steeping grounds with hot water in a vessel with a plunger and metal filter that pushes the grounds to the bottom. Often used in coffee bars for limited-edition coffees. Also called a press pot.</glossdef></glossentry>
+<glossentry id="GREEN_BEANS">
+<glossterm>GREEN BEANS</glossterm>
+<glossdef>Unroasted coffee beans.</glossdef></glossentry>
+<glossentry id="LATTE">
+<glossterm>LATTE</glossterm>
+<glossdef>Espresso with steamed milk, 8 ounces or more total.</glossdef></glossentry>
+<glossentry id="LATTE_ART">
+<glossterm>LATTE ART</glossterm>
+<glossdef>The pattern formed by rhythmically pouring steamed milk into an espresso drink. Decorative and demonstrative; only properly steamed milk will hold a form.</glossdef></glossentry>
+<glossentry id="MACCHIATO">
+<glossterm>MACCHIATO</glossterm>
+<glossdef>Espresso topped with a dab of foamed steamed milk, about 2 to 3 ounces total.</glossdef></glossentry>
+<glossentry id="MICRO-LOT">
+<glossterm>MICRO-LOT</glossterm>
+<glossdef>Coffee from a single farm, or a specific part of that farm.</glossdef></glossentry>
+<glossentry id="MOCHA">
+<glossterm>MOCHA</glossterm>
+<glossdef>Espresso mixed with chocolate syrup and steamed milk.</glossdef></glossentry>
+<glossentry id="NEL_DRIP">
+<glossterm>NEL DRIP</glossterm>
+<glossdef>Short for “flannel drip,” it’s a form of drip coffee that uses flannel filters imported from Japan. The filters are temperamental, and must be washed by hand and kept chilled when not in use.</glossdef></glossentry>
+<glossentry id="PORTAFILTER">
+<glossterm>PORTAFILTER</glossterm>
+<glossdef>The filter basket and handle on an espresso machine.</glossdef></glossentry>
+<glossentry id="POUR-OVER_COFFEE">
+<glossterm>POUR-OVER COFFEE</glossterm>
+<glossdef>A method of drip coffee developed in Japan in which the water is poured in a thin, steady, slow stream over a filter cone. One cup of coffee takes as long as three minutes to brew. Some coffee bars have pour-over setups with several cones and distinctive swan-neck kettles from Japan.</glossdef></glossentry>
+<glossentry id="PUCK">
+<glossterm>PUCK</glossterm>
+<glossdef>Spent coffee from a portafilter or Clover.</glossdef></glossentry>
+<glossentry id="PULL">
+<glossterm>PULL</glossterm>
+<glossdef>Espresso shots are “pulled.” The term is a holdover from when machines were lever operated.</glossdef></glossentry>
+<glossentry id="REDEYE">
+<glossterm>REDEYE</glossterm>
+<glossdef>A cup of brewed coffee with espresso.</glossdef></glossentry>
+<glossentry id="RISTRETTO">
+<glossterm>RISTRETTO</glossterm>
+<glossdef>Espresso pulled short — with less water — for a smaller, more concentrated drink.</glossdef></glossentry>
+<glossentry id="ROAST">
+<glossterm>ROAST</glossterm>
+<glossdef>Unpalatable green beans are heated to create complex flavors that are extracted during brewing.</glossdef></glossentry>
+<glossentry id="ROAST_DATE">
+<glossterm>ROAST DATE</glossterm>
+<glossdef>Most small-batch roasters print the roast date on bags of coffee. The rule of thumb is that coffee should be used within two weeks, and some coffee bars won’t sell beans more than a week after they have been roasted.</glossdef></glossentry>
+<glossentry id="SEASONAL_COFFEE">
+<glossterm>SEASONAL COFFEE</glossterm>
+<glossdef>Coffee beans ripen at different times of the year in different regions, and can appear in markets and coffee bars for limited times.</glossdef></glossentry>
+<glossentry id="SINGLE_ORIGIN">
+<glossterm>SINGLE ORIGIN</glossterm>
+<glossdef>Coffee from a particular region, farm or area within a farm.</glossdef></glossentry>
+<glossentry id="SIPHON">
+<glossterm>SIPHON</glossterm>
+<glossdef>A coffeemaking device, using vacuum pressure and a series of vessels, that originated in the 19th century. It recently gained popularity in Japan and is being used more in the United States. Despite its complications, it is known for producing fruity, bright coffee.</glossdef></glossentry>
+<glossentry id="SLOW_DRIPPER">
+<glossterm>SLOW DRIPPER</glossterm>
+<glossdef>Unusual devices imported from Japan with a glass sphere and a series of tubes and valves that make coffee with cold water in about 12 hours.</glossdef></glossentry>
+<glossentry id="TRIFECTA">
+<glossterm>TRIFECTA</glossterm>
+<glossdef>A high-tech single-cup coffee brewer.</glossdef></glossentry></glossgroup>

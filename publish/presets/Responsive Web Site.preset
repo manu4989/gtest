@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <index type="boolean">true</index>
+    <toc>
+      <path>../../toc/Web_Site_TOC.toc</path>
+      <name>Web_Site_TOC</name>
+    </toc>
+    <glossary>
+      <path>../../glossary/Learn_a_Latte.glo</path>
+      <name>Learn_a_Latte</name>
+    </glossary>
+    <conditional>
+      <name>Keep_Author_Information_out_of_output</name>
+      <path>../expressions/Keep_Author_Information_out_of_output.expn</path>
+    </conditional>
+    <masterpage></masterpage>
+    <brs type="array"></brs>
+    <mapFiles type="array">
+      <mapFilesitem>
+        <name>BSSCDefault.h</name>
+        <path>../mapfiles/BSSCDefault.ali</path>
+      </mapFilesitem>
+    </mapFiles>
+  </content>
+  <outputPath></outputPath>
+  <starterPage>index.htm</starterPage>
+  <filter>
+    <name>Responsive Web Site</name>
+    <path>../filters/Responsive Web Site.filter</path>
+  </filter>
+  <search>
+    <context type="boolean">true</context>
+    <contextLimit>100</contextLimit>
+    <suggestion type="boolean">true</suggestion>
+    <fuzzy type="boolean">true</fuzzy>
+    <glossary type="boolean">true</glossary>
+  </search>
+  <sitemap>
+    <use type="boolean">true</use>
+    <changeFrequency>Monthly</changeFrequency>
+    <helpBaseURL></helpBaseURL>
+  </sitemap>
+  <skin>
+    <name>Coffee</name>
+    <path>../skins/Coffee/html5.skn</path>
+  </skin>
+  <name>Responsive Web Site</name>
+  <type>html5</type>
+  <title>Learn a Latte</title>
+  <defaultTopic>
+    <name>MainProject/Splash.htm</name>
+    <path>../../contents/MainProject/Splash.htm</path>
+  </defaultTopic>
+  <glosstermEffect type="number">0</glosstermEffect>
+  <createThumbNails type="boolean">true</createThumbNails>
+  <use_thumbnails type="boolean">true</use_thumbnails>
+</preset>

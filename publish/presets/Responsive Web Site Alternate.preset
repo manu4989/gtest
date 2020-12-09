@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <variable></variable>
+    <conditional>
+      <name>Keep_Author_Information_out_of_output</name>
+      <path>../expressions/Keep_Author_Information_out_of_output.expn</path>
+    </conditional>
+    <startPage></startPage>
+    <toc>
+      <name>Web_Site_TOC</name>
+      <path>../../toc/Web_Site_TOC.toc</path>
+    </toc>
+    <index type="boolean">true</index>
+    <glossary>
+      <name>Learn_a_Latte</name>
+      <path>../../glossary/Learn_a_Latte.glo</path>
+    </glossary>
+    <brs type="array"></brs>
+    <language></language>
+    <masterpage></masterpage>
+    <mapFiles type="array">
+      <mapFilesitem>
+        <name>BSSCDefault.h</name>
+        <path>../mapfiles/BSSCDefault.ali</path>
+      </mapFilesitem>
+    </mapFiles>
+    <windowsSetting></windowsSetting>
+  </content>
+  <title>Learn a Latte</title>
+  <type>html5</type>
+  <glosstermEffect type="number">0</glosstermEffect>
+  <outputPath></outputPath>
+  <name>Responsive Web Site Alternate</name>
+  <starterPage>index.htm</starterPage>
+  <defaultTopic>
+    <name>MainProject/Splash.htm</name>
+    <path>../../contents/MainProject/Splash.htm</path>
+  </defaultTopic>
+  <encoding></encoding>
+  <lowercasenames></lowercasenames>
+  <epub>
+    <fonts></fonts>
+    <cover></cover>
+    <title></title>
+    <author></author>
+    <description></description>
+    <rights></rights>
+    <uuid></uuid>
+    <date></date>
+    <check></check>
+    <publisher></publisher>
+  </epub>
+  <mobileapp>
+    <configfile></configfile>
+    <android></android>
+    <iOS></iOS>
+    <iosP12File></iosP12File>
+    <androidAlias></androidAlias>
+    <pgbChange></pgbChange>
+    <iosMobProvision></iosMobProvision>
+    <androidKeystore></androidKeystore>
+    <package></package>
+    <icon></icon>
+    <name></name>
+    <version></version>
+    <versionCode></versionCode>
+    <description></description>
+    <splash></splash>
+  </mobileapp>
+  <search>
+    <suggestion type="boolean">true</suggestion>
+    <substring></substring>
+    <context type="boolean">true</context>
+    <contextLimit>100</contextLimit>
+    <highlight></highlight>
+    <highlightcolor></highlightcolor>
+    <autocomplete></autocomplete>
+    <autocorrect></autocorrect>
+    <glossary type="boolean">true</glossary>
+    <fileTypes></fileTypes>
+    <external></external>
+    <fuzzy type="boolean">true</fuzzy>
+    <doSearchIndexing></doSearchIndexing>
+  </search>
+  <filter>
+    <name>Responsive Web Site Alternate</name>
+    <path>../filters/Responsive Web Site Alternate.filter</path>
+  </filter>
+  <sitemap>
+    <use type="boolean">true</use>
+    <helpBaseURL></helpBaseURL>
+    <changeFrequency>Monthly</changeFrequency>
+  </sitemap>
+  <skin>
+  </skin>
+  <createThumbNails type="boolean">true</createThumbNails>
+  <use_thumbnails type="boolean">true</use_thumbnails>
+  <favicon></favicon>
+  <thumbnail></thumbnail>
+  <pdf>
+    <toclevel></toclevel>
+    <coverpage></coverpage>
+    <pageSize></pageSize>
+    <width></width>
+    <height></height>
+    <tocdepth></tocdepth>
+    <margin></margin>
+    <masterpage></masterpage>
+    <multiHeaders></multiHeaders>
+    <tocMasterPages></tocMasterPages>
+    <topicMasterPages></topicMasterPages>
+    <gloMasterPages></gloMasterPages>
+    <indexMasterPages></indexMasterPages>
+  </pdf>
+</preset>

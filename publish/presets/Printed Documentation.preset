@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <content>
+    <index type="boolean">true</index>
+    <toc>
+      <path>../../toc/Student_Guide_TOC.toc</path>
+      <name>Student_Guide_TOC</name>
+    </toc>
+    <glossary>
+      <path>../../glossary/Learn_a_Latte.glo</path>
+      <name>Learn_a_Latte</name>
+    </glossary>
+    <brs type="array"></brs>
+    <mapFiles type="array"></mapFiles>
+    <generatetoc type="boolean">true</generatetoc>
+    <includereftopics type="boolean">true</includereftopics>
+  </content>
+  <outputPath></outputPath>
+  <starterPage>Student_Guide.pdf</starterPage>
+  <search>
+    <context type="boolean">false</context>
+    <contextLimit></contextLimit>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+    <changeFrequency></changeFrequency>
+    <helpBaseURL></helpBaseURL>
+  </sitemap>
+  <name>Printed Documentation</name>
+  <type>pdf</type>
+  <title>Learn a Latte</title>
+  <defaultTopic></defaultTopic>
+  <pdf>
+    <multiHeaders type="boolean">false</multiHeaders>
+    <margin type="array">
+      <marginitem type="number">10</marginitem>
+      <marginitem type="number">10</marginitem>
+      <marginitem type="number">10</marginitem>
+      <marginitem type="number">10</marginitem>
+    </margin>
+    <downloadTimeout type="number">1500</downloadTimeout>
+    <multiheaders type="boolean">false</multiheaders>
+  </pdf>
+  <use_thumbnails type="boolean">false</use_thumbnails>
+</preset>

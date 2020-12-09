@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+  <meta name="topic-comment" content="" />
+  <meta name="generator" content="Adobe RoboHelp 2019" />
+  <title>Curriculum</title>
+</head>
+<body>
+  <script src="../../js/ehlpdhtm.js" type="text/javascript" language="JavaScript1.2"></script>
+  <ul style="list-style: disc;">
+    <li><a data-rhwidget="DropSpot" data-target="POPUP639580316" href="#">Week 1 - Basics</a>
+      <div data-targetname="POPUP639580316">
+        <p><a href="../../MainProject/Curriculum/Module1/About_Module_1.htm">Week 1</a> will introduce you to the basics of how a coffee shop operates. From operating the cash register to maintaining healthy standards.</p>
+      </div>
+    </li>
+  </ul>
+  <ul style="list-style: disc;">
+    <li><a data-rhwidget="DropSpot" data-target="POPUP639616647" href="#">Week 2 - Roasting and terms</a>
+      <div data-targetname="POPUP639616647">
+        <p>
+          <a href="../../MainProject/Curriculum/Module2/About_Module_2.htm">Week 2</a> will introduce you to coffee terminology, what happens when roasting, how to operate the roasting machine and how to operate the espresso machine.</p>
+      </div>
+    </li>
+  </ul>
+  <ul style="list-style: disc;">
+    <li><a data-rhwidget="DropSpot" data-target="POPUP639674919" href="#">Week 3 - Hot beverages</a>
+      <div data-targetname="POPUP639674919">
+        <p><a href="../../MainProject/Curriculum/Module3/About_Module_3.htm">Week
+            3</a> will introduce you to making hot beverages. Everything from
+          brewing the perfect cup of tea to the perfect cup of roasted coffee.
+          After week 3 you should be well prepared for preparing any type
+          of espresso based order.</p>
+      </div>
+    </li>
+  </ul>
+  <ul style="list-style: disc;">
+    <li><a data-rhwidget="DropSpot" data-target="POPUP639733880" href="#">Week 4 - Cold beverages</a>
+      <div data-targetname="POPUP639733880">
+        <p><a href="../../MainProject/Curriculum/Module4/About_Module_4.htm">Week
+            4</a> will teach you how to create the perfect cold beverages.
+          Iced chai and coffee to blending the perfect smoothies. You will
+          know how to create them all once you are finished with this week.</p>
+      </div>
+    </li>
+  </ul>
+  <ul style="list-style: disc;">
+    <li><a data-rhwidget="DropSpot" data-target="POPUP639783354" href="#">Week 5 - On the job training</a>
+      <div data-targetname="POPUP639783354">
+        <p><a href="../../MainProject/Curriculum/Module5/About_Module_5.htm">Week
+            5</a> will have you moving from training mode to actually staffing
+          the live coffee shop. Nothing like learning on the job!</p>
+      </div>
+    </li>
+  </ul>
+  <ul style="list-style: disc;">
+    <li><a data-rhwidget="DropSpot" data-target="POPUP639829245" href="#">Week 6 - All systems go</a>
+      <div data-targetname="POPUP639829245">
+        <p><a href="../../MainProject/Curriculum/Module6/About_Module_6.htm">Week
+            6</a> will continue with the live coffee shop. During this week
+          you will review everything you have learned so that you may reinforce
+          the knowledge you have gained.</p>
+      </div>
+    </li>
+  </ul>
+  <p> </p>
+  <script type="text/javascript" language="JavaScript1.2">
+    //<![CDATA[
+    if (typeof(TextPopupInit) != 'function') TextPopupInit = new Function();
+    TextPopupInit('a1', 'POPUP639580316');
+    TextPopupInit('a2', 'POPUP639616647');
+    TextPopupInit('a3', 'POPUP639674919');
+    TextPopupInit('a4', 'POPUP639733880');
+    TextPopupInit('a5', 'POPUP639783354');
+    TextPopupInit('a6', 'POPUP639829245');
+    //]]>
+  </script>
+</body>
+</html>

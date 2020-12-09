@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+  <title>Table of Contents</title>
+  <page navtitle="About this project" href="../contents/MainProject/About_this_project.htm" format="html" processing-role="normal"></page>
+  <book navtitle="Curriculum" condition="Others:Administrator,Student" format="html" processing-role="normal">
+    <page navtitle="Curriculum Overview" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Curriculum_Overview.htm" format="html" processing-role="normal"></page>
+    <book navtitle="Module1" condition="Others:Administrator,Student" format="html" processing-role="normal">
+      <page navtitle="About Module 1" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module1/About_Module_1.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Monday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module1/Monday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Tuesday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module1/Tuesday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Wednesday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module1/Wednesday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Thursday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module1/Thursday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Friday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module1/Friday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Saturday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module1/Saturday.htm" format="html" processing-role="normal"></page>
+    </book>
+    <book navtitle="Module2" condition="Others:Administrator,Student" format="html" processing-role="normal">
+      <page navtitle="About Module 2" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module2/About_Module_2.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Monday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module2/Monday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Tuesday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module2/Tuesday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Wednesday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module2/Wednesday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Thursday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module2/Thursday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Friday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module2/Friday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Saturday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module2/Saturday.htm" format="html" processing-role="normal"></page>
+    </book>
+    <book navtitle="Module3" condition="Others:Administrator,Student" format="html" processing-role="normal">
+      <page navtitle="About Module 3" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module3/About_Module_3.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Monday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module3/Monday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Tuesday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module3/Tuesday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Wednesday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module3/Wednesday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Thursday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module3/Thursday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Friday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module3/Friday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Saturday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module3/Saturday.htm" format="html" processing-role="normal"></page>
+    </book>
+    <book navtitle="Module4" condition="Others:Administrator,Student" format="html" processing-role="normal">
+      <page navtitle="About Module 4" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module4/About_Module_4.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Monday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module4/Monday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Tuesday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module4/Tuesday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Wednesday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module4/Wednesday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Thursday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module4/Thursday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Friday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module4/Friday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Saturday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module4/Saturday.htm" format="html" processing-role="normal"></page>
+    </book>
+    <book navtitle="Module5" condition="Others:Administrator,Student" format="html" processing-role="normal">
+      <page navtitle="About Module 5" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module5/About_Module_5.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Monday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module5/Monday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Tuesday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module5/Tuesday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Wednesday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module5/Wednesday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Thursday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module5/Thursday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Friday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module5/Friday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Saturday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module5/Saturday.htm" format="html" processing-role="normal"></page>
+    </book>
+    <book navtitle="Module6" condition="Others:Administrator,Student" format="html" processing-role="normal">
+      <page navtitle="About Module 6" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module6/About_Module_6.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Monday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module6/Monday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Tuesday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module6/Tuesday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Wednesday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module6/Wednesday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Thursday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module6/Thursday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Friday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module6/Friday.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Saturday" condition="Others:Administrator,Student" href="../contents/MainProject/Curriculum/Module6/Saturday.htm" format="html" processing-role="normal"></page>
+    </book>
+  </book>
+  <book navtitle="Personnel" condition="Others:Administrator,Student" format="html" processing-role="normal">
+    <book navtitle="Administration" condition="Others:Administrator" format="html" processing-role="normal">
+      <page navtitle="Cash Drawer Procedures" condition="Others:Administrator" href="../contents/MainProject/Personnel/Administration/Cash_Drawer_Procedures.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Our Founder" condition="Others:Administrator" href="../contents/MainProject/Personnel/Administration/Our_Founder.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Printing Graduation Certificates" condition="Others:Administrator" href="../contents/MainProject/Personnel/Administration/Printing_Graduation_Certificates.htm" format="html" processing-role="normal"></page>
+    </book>
+    <book navtitle="Student" condition="Others:Administrator,Student" format="html" processing-role="normal">
+      <page navtitle="Conduct" condition="Others:Administrator,Student" href="../contents/MainProject/Personnel/Student/Conduct.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Dress" condition="Others:Administrator,Student" href="../contents/MainProject/Personnel/Student/Dress.htm" format="html" processing-role="normal"></page>
+      <page navtitle="Financials" condition="Others:Administrator,Student" href="../contents/MainProject/Personnel/Student/Financials.htm" format="html" processing-role="normal"></page>
+    </book>
+    <page navtitle="Emergency Procedures" condition="Others:Administrator,Student" href="../contents/MainProject/Personnel/Emergency_Procedures.htm" format="html" processing-role="normal"></page>
+    <page navtitle="Employee and Student Perks" condition="Others:Administrator,Student" href="../contents/MainProject/Personnel/Employee_and_Student_Perks.htm" format="html" processing-role="normal"></page>
+    <page navtitle="Our Mascot - Funky Brewster" condition="Others:Administrator,Student" href="../contents/MainProject/Personnel/Our_Mascot_Funky_Brewster.htm" format="html" processing-role="normal"></page>
+    <page navtitle="Parking" condition="Others:Administrator,Student" href="../contents/MainProject/Personnel/Parking.htm" format="html" processing-role="normal"></page>
+    <page navtitle="Substance Abuse" condition="Others:Administrator,Student" href="../contents/MainProject/Personnel/Substance_Abuse.htm" format="html" processing-role="normal"></page>
+  </book>
+</map>

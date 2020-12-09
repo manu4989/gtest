@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <title>Learn a Latte</title>
+  <content>
+    <toc>
+      <name>Complete_TOC_with_Author_Information</name>
+      <path>../../toc/Complete_TOC_with_Author_Information.toc</path>
+    </toc>
+    <index type="boolean">true</index>
+    <glossary>
+      <name>Learn_a_Latte</name>
+      <path>../../glossary/Learn_a_Latte.glo</path>
+    </glossary>
+    <mapFiles type="array">
+      <mapFilesitem>
+        <name>BSSCDefault</name>
+        <path>../mapfiles/BSSCDefault.ali</path>
+      </mapFilesitem>
+    </mapFiles>
+  </content>
+  <type>frameless</type>
+  <glosstermEffect type="number">0</glosstermEffect>
+  <name>Frameless Web Site</name>
+  <starterPage>index.htm</starterPage>
+  <defaultTopic>
+    <name>Splash</name>
+    <path>../../contents/MainProject/Splash.htm</path>
+  </defaultTopic>
+  <search>
+    <suggestion type="boolean">true</suggestion>
+    <context type="boolean">false</context>
+    <contextLimit type="number">100</contextLimit>
+    <glossary type="boolean">true</glossary>
+    <fuzzy type="boolean">true</fuzzy>
+  </search>
+  <filter>
+    <path>../filters/Responsive HTML5 - Coffee.filter</path>
+    <name>Responsive HTML5 - Coffee</name>
+  </filter>
+  <sitemap>
+    <use type="boolean">false</use>
+  </sitemap>
+  <skin>
+    <path>../skins/Oceanic/frameless.skn</path>
+  </skin>
+  <createThumbNails type="boolean">false</createThumbNails>
+  <patchHomepage type="boolean">true</patchHomepage>
+  <gdprCompliance type="boolean">true</gdprCompliance>
+</preset>

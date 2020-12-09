@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<preset>
+  <title>Learn a Latte</title>
+  <content>
+    <toc>
+      <path>../../toc/Complete_TOC_with_Author_Information.toc</path>
+      <name>Complete_TOC_with_Author_Information</name>
+    </toc>
+    <index type="boolean">true</index>
+    <includeExpandingText type="boolean">true</includeExpandingText>
+    <includeDropdownText type="boolean">true</includeDropdownText>
+  </content>
+  <type>html5</type>
+  <glosstermEffect type="number">0</glosstermEffect>
+  <outputPath>C:/Users/mmehrotr/Documents/My RoboHelp Projects/outputs/Learn a Latte/Resp</outputPath>
+  <name>Resp</name>
+  <starterPage>index.htm</starterPage>
+  <mobileapp>
+    <android type="boolean">true</android>
+    <iOS type="boolean">false</iOS>
+  </mobileapp>
+  <search>
+    <suggestion type="boolean">true</suggestion>
+    <context type="boolean">false</context>
+    <contextLimit type="number">100</contextLimit>
+    <maxSearchresults type="number">20</maxSearchresults>
+    <glossary type="boolean">true</glossary>
+    <showSpeclChars type="boolean">false</showSpeclChars>
+    <speclChars>0;1;2;3;4;5;6;7;8;9</speclChars>
+    <fuzzy type="boolean">true</fuzzy>
+  </search>
+  <sitemap>
+    <use type="boolean">false</use>
+  </sitemap>
+  <createThumbNails type="boolean">false</createThumbNails>
+  <patchHomepage type="boolean">true</patchHomepage>
+  <gdprCompliance type="boolean">true</gdprCompliance>
+  <serversStatus type="array">
+    <serversStatusitem>
+      <name>RHS_Project</name>
+    </serversStatusitem>
+  </serversStatus>
+</preset>

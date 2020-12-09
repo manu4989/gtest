@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<val>
+  <prop att="Others" val="Administrator" backcolor="#800000"></prop>
+  <prop att="Others" val="AuthorInformation" backcolor="#000080"></prop>
+  <prop att="Others" val="ColdDrink" backcolor="#0000ff"></prop>
+  <prop att="Others" val="HotDrink" backcolor="#808080"></prop>
+  <prop att="Others" val="Online" backcolor="#00ff00"></prop>
+  <prop att="Others" val="Print" backcolor="#ff0000"></prop>
+  <prop att="Others" val="Student" backcolor="#008000"></prop>
+</val>
